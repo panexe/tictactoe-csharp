@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictactoe-gui", "tictactoe-csharp\tictactoe-gui.csproj", "{B5C5BDD6-EE8F-4E85-A7DE-DFDB23D85A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictactoe-client", "tictactoe-client\tictactoe-client.csproj", "{08597814-FC17-4B9B-AC93-64DB4E10D266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictactoe-server", "tictactoe-server\tictactoe-server.csproj", "{2881B18E-7AEA-40FB-8A36-EDEEBAA632A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C5BDD6-EE8F-4E85-A7DE-DFDB23D85A4F}.Debug|x86.ActiveCfg = Debug|x86
+		{B5C5BDD6-EE8F-4E85-A7DE-DFDB23D85A4F}.Debug|x86.Build.0 = Debug|x86
+		{B5C5BDD6-EE8F-4E85-A7DE-DFDB23D85A4F}.Release|x86.ActiveCfg = Release|x86
+		{B5C5BDD6-EE8F-4E85-A7DE-DFDB23D85A4F}.Release|x86.Build.0 = Release|x86
+		{08597814-FC17-4B9B-AC93-64DB4E10D266}.Debug|x86.ActiveCfg = Debug|x86
+		{08597814-FC17-4B9B-AC93-64DB4E10D266}.Debug|x86.Build.0 = Debug|x86
+		{08597814-FC17-4B9B-AC93-64DB4E10D266}.Release|x86.ActiveCfg = Release|x86
+		{08597814-FC17-4B9B-AC93-64DB4E10D266}.Release|x86.Build.0 = Release|x86
+		{2881B18E-7AEA-40FB-8A36-EDEEBAA632A9}.Debug|x86.ActiveCfg = Debug|x86
+		{2881B18E-7AEA-40FB-8A36-EDEEBAA632A9}.Debug|x86.Build.0 = Debug|x86
+		{2881B18E-7AEA-40FB-8A36-EDEEBAA632A9}.Release|x86.ActiveCfg = Release|x86
+		{2881B18E-7AEA-40FB-8A36-EDEEBAA632A9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
